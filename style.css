@@ -1,0 +1,195 @@
+body{
+    background-color: grey;
+}
+.Gstore{
+    border: 8px solid red;
+    color: brown;
+    background-color: white;
+    text-align: center;
+    width: 320px;
+    height: 100px;
+    margin-left: 40%;
+    padding-top: 30px;
+    font-weight: bolder;
+    font-size: x-large;
+    border-radius: 30px;
+    box-shadow: 8px 8px 5px purple;
+    text-shadow: 2PX 2PX 2PX ;
+
+
+}
+.bigbox{
+    position: relative;
+    border: 10px solid green;
+    height: 600px;
+}
+.item1{
+    box-shadow: 5px 5px 3px purple;
+    position: absolute;
+    border: 6px solid red;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    top: 20px;
+    left: 20px;
+    color: rgb(78, 9, 143);
+    font-size: xx-large;
+    padding-top: 45px;
+    padding-left: 15px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 10px;
+    text-shadow: 2PX 2PX 3PX ;
+
+}
+.item2{
+    box-shadow: 5px 5px 3px purple;
+    position: absolute;
+    border: 6px solid red;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    top: 20px;
+    right: 20px;
+    border-radius: 10px;
+    background-image: url("food1.jpg");
+
+}
+.image{
+    width: 180px;
+    height: 150px;
+    padding: 15px;
+
+}
+.item3{
+    box-shadow: 5px 5px 3px purple;
+    position: absolute;
+    border: 6px solid red;
+    border-radius: 10px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    bottom: 20px;
+    left: 20px;
+    font-size: x-large;
+    padding: 15px;
+    font-weight: 700;
+    color: rgb(78, 9, 143);
+    text-shadow: 2PX 2PX 3PX ;
+
+}
+.item4{
+    box-shadow: 5px 5px 3px purple;
+    position: absolute;
+    border: 6px solid red;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    bottom: 20px;
+    right: 20px;
+    padding-top: 30px;
+    font-weight: 700;
+    color: rgb(78, 9, 143);
+    border-radius: 10px;
+    text-shadow: 2PX 2PX 3PX ;
+    font-weight: bolder;
+
+
+}
+.fixed{
+    position: fixed;
+    border: 6px solid red;
+    background-color: palegreen;
+    color: brown;
+    display: flex;
+    width: 460px;
+    height: 80px;
+    bottom: 40px;
+    left: 35%;
+    border-radius: 15px;
+    box-shadow: 10vw;
+    box-shadow: 8px 8px 5px purple;
+
+}
+.monday{
+    font-size: x-large;
+    font-style: italic;
+    padding: 5px;
+    font-weight: bolder;
+}
+.offer{
+    font-size: large;
+    font-style: oblique;
+    padding-top: 15px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.submit{
+   
+}
+.input_submit{
+    background-color: tomato;
+    border-radius: 10px;
+}
+.mystore{
+    border: 8px solid purple;
+    background-color: green;
+    width: 730px;
+    height: 700px;
+    align-content: center;
+    margin-left: 25%;
+    margin-top: 20px;
+
+}
+h3{
+    font-size: larger;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.fruits{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+}
+.box1{
+    background-color: rgb(240, 241, 133);
+    color: black;
+    width: 350px;
+    height: 280px;
+    font-size: larger;
+    text-align: center;
+    margin-left: 2px;
+    font-style: oblique;
+
+}
+.box2{
+    background-color: rgb(240, 241, 133);
+    color: black;
+    width: 360px;
+    height: 280px;
+    font-size: larger;
+    text-align: center;
+    margin-left: 10px;
+    font-style: oblique;
+    margin-right: 2px;
+
+}
+.welcome{
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.box3{
+    background-color: rgb(240, 241, 133);
+    color: black;
+    /* width: 350px; */
+    height: 260px;
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 10px; */
+    font-style: oblique;
+
+}
