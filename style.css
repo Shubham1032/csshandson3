@@ -30,15 +30,15 @@ body{
     background-color: white;
     width: 250px;
     height: 200px;
-    top: 20px;
-    left: 20px;
+    top: 10px;
+    left: 10px;
     color: rgb(78, 9, 143);
     font-size: xx-large;
     padding-top: 45px;
     padding-left: 15px;
     font-weight: 700;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 15px;
     text-shadow: 2PX 2PX 3PX ;
 
 }
@@ -51,7 +51,7 @@ body{
     height: 200px;
     top: 20px;
     right: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
     background-image: url("food1.jpg");
 
 }
@@ -65,12 +65,12 @@ body{
     box-shadow: 5px 5px 3px purple;
     position: absolute;
     border: 6px solid red;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: white;
     width: 250px;
     height: 200px;
-    bottom: 20px;
-    left: 20px;
+    bottom: 10px;
+    left: 10px;
     font-size: x-large;
     padding: 15px;
     font-weight: 700;
@@ -83,14 +83,14 @@ body{
     position: absolute;
     border: 6px solid red;
     background-color: white;
-    width: 200px;
+    width: 250px;
     height: 200px;
     bottom: 20px;
     right: 20px;
     padding-top: 30px;
     font-weight: 700;
     color: rgb(78, 9, 143);
-    border-radius: 10px;
+    border-radius: 15px;
     text-shadow: 2PX 2PX 3PX ;
     font-weight: bolder;
 
